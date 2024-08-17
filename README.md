@@ -2,9 +2,9 @@
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
-# UNDERCONSTRUCTION
+# UNDERCONSTRUCTION REACT
 
-Personal template first init
+Template first init project with `vite``react`on `bun runtime`
 
 ## PROJECT DELIVERIES
 
@@ -31,6 +31,8 @@ Personal template first init
 | TECHNO   | SPEC   |
 | :------- | ------ |
 | FRONTEND | `SASS` |
+| BACKEND |`BUN`|
+| BUNDLE |`VITE`|
 
 ## RUNNING THE APPS
 
