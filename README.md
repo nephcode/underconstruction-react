@@ -44,4 +44,4 @@ git branch release
 
 ```
 
-![Cover](https://github.com/nephcode/underconstruction/blob/main/.github/images/githubReadmeFooter.png)
+![Cover](https://github.com/nephcode/underconstruction-react/blob/main/.github/images/githubReadmeFooter.png)
