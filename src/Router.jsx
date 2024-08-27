@@ -10,11 +10,7 @@ createRoot(document.getElementById('root')).render(
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Rou
       </Routes>
-
     </Router>
-    <Home />
-
   </StrictMode>,
 )
